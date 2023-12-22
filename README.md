@@ -21,4 +21,4 @@ Clone repository and examine various configurational options within the .txt fil
 
 ## Acknowledgements
 
-The development of this MDP solver is inspired by [UC Berkeley].
+The development of this MDP solver is inspired by the referenced api.py module developed @ [UC Berkeley].
