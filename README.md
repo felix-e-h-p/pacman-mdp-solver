@@ -14,3 +14,11 @@ The project has the following requirements:
 
 - Python [2.7]
 - NumPy [1.16.6]
+
+## Run MDP Pacman
+
+Clone repository and examine various configurational options within the .txt file.
+
+## Acknowledgements
+
+The development of this MDP solver is inspired by [UC Berkeley].
